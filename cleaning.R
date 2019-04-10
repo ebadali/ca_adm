@@ -80,6 +80,7 @@ ggplot2::ggplot(titanicData, ggplot2::aes(x = Sex, fill = factor(Survived))) + g
 table(titanicData$Sex, titanicData$Age)
 
 
+######################  Checking imbalance of datasets  ######################
 dfc <- cut(titanicData$Age, breaks=c(0, 15, 45, 56, Inf))
 
 
@@ -87,7 +88,6 @@ ageFactors <- factor(titanicData$Age, levels = c(20,60,80))
 
 barchart(table(dfc,titanicData$Sex))
   
-######################  Checking imbalance of datasets  ######################
 
 # Whether one class outnumbers other class ? eg: more frequently survived not survvide
 
