@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554840344004.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F3EE1BA5",
+    "lastKnownWriteTime" : 1554844655,
+    "last_content_update" : 1554844655542,
+    "path" : "~/Documents/NCI/Seconds Semester/ADM/ca_practice/one.R",
+    "project_path" : "one.R",
+    "properties" : {
+        "cursorPosition" : "21,7",
+        "scrollLine" : "62",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
